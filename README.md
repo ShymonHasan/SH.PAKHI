@@ -1,6 +1,6 @@
-### Hi there 👋
+### ASSALAMAIKUM 👋
 <!--
-**pashayogi/pashayogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SH PAKHI/SHYMON HASAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 
 # Haii, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Perkenalkan Nama Saya Pasha Yogi Pranata saya berasal dari Indonesia Kalimantan Timur Samarinda Palaran, Saya bergerak Di bidang IT Information. Kalian Bisa Hubungi Saya Melalui [Telegram](https://t.me/Pashayogipranata)
+Assalamu Alaikum,
+
+I am Shymon Hasan, my home is Bangladesh, Dhaka, I am a student. [My Facebook Id](https://www.facebook.com/I.Fuak.Your.MinD)[My Youtube](https://youtube.com/c/FeelingsCreationSH)
 
 ## &#x270d; Blog & Writing
 
-Belajar Kali Linux atau lainnya mari membaca artikel di website saya anda akan mendapatkan banyak ilmu [Hdlsvip](https://www.pashakun.com) untuk melihat demo landing page [Landing Page](https://www.pashakun.com).
+Belajar Kali Linux atau lainnya mari membaca artikel di website saya anda akan mendapatkan banyak ilmu [Hdlsvip](https://github.com/ShymonHasan)melihat demo landing page [Facebook](https://www.facebook.com/I.Fuak.Your.MinD).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -41,10 +43,10 @@ Belajar Kali Linux atau lainnya mari membaca artikel di website saya anda akan m
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/pashayogi/pashayogi">
+<a href="https://github.com/ShymonHasan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pashayogi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/pashayogi/pashayogi">
+<a href="https://github.com/ShymonHasan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pashayogi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
@@ -66,11 +68,11 @@ Belajar Kali Linux atau lainnya mari membaca artikel di website saya anda akan m
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
-
-
+[1]: https://www.facebook.com/I.Fuak.Your.MinD
+[2]: https://github.com/ShymonHasan
+[3]: https://twitter.com/shymon_hasan?s=09
+[4]: https://shymonhasan.websites.co.in/
+[5]: https://www.instagram.com/___rafin_chowdhury___
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
