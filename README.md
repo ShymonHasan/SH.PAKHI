@@ -1,4 +1,4 @@
-### ASSALAMAIKUM 👋
+### Assalamu Alaikum 👋
 <!--
 **SH PAKHI/SHYMON HASAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 Assalamu Alaikum,
 
-I am Shymon Hasan, my home is Bangladesh, Dhaka, I am a student. [My Facebook Id](https://www.facebook.com/I.Fuak.Your.MinD)[My Youtube](https://youtube.com/c/FeelingsCreationSH)
+I am Shymon Hasan, my home is Bangladesh, Dhaka, I am a student. [My Facebook Id](https://www.facebook.com/I.Fuak.Your.MinD) [My Youtube](https://youtube.com/c/FeelingsCreationSH)
 
 ## &#x270d; Blog & Writing
 
-Belajar Kali Linux atau lainnya mari membaca artikel di website saya anda akan mendapatkan banyak ilmu [Hdlsvip](https://github.com/ShymonHasan)melihat demo landing page [Facebook](https://www.facebook.com/I.Fuak.Your.MinD).
+[Hdlsvip](https://github.com/ShymonHasan)  [Facebook](https://www.facebook.com/I.Fuak.Your.MinD).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
