@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-[![Header](https://raw.githubusercontent.com/pashayogi/pashayogi/master/ok.png "Header")](https://hdlsvip.com/)
+<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at -->
+[![Header]( "Header")](https://www.facebook.com/I.FueK.YoUr.MiNd.BnXD)
 
 # Haii, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -79,4 +79,4 @@ I am Shymon Hasan, my home is Bangladesh, Dhaka, I am a student. [My Facebook Id
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profi
+<!-- Awesome GitHub Profile README: https://github.com/ShymonHasan
