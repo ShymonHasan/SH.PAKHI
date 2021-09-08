@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at -->
-[![Header]( "Header")](https://www.facebook.com/I.FueK.YoUr.MiNd.BnXD)
+[![Header]( "Header")https://www.facebook.com/I.FueK.YoUr.MiNd.BnXD](https://www.facebook.com/I.FueK.YoUr.MiNd.BnXD)
 
 # Haii, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -75,8 +75,8 @@ I am Shymon Hasan, my home is Bangladesh, Dhaka, I am a student. [My Facebook Id
 [5]: https://www.instagram.com/___rafin_chowdhury___
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- GitHub Stats: https://github.com/ShymonHasan -->
+<!-- Emojis: https://youtube.com/c/FeelingsCreationSH -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/ShymonHasan
