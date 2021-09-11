@@ -14,17 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at -->
-[![Header]( "Fb")https://www.facebook.com/I.FueK.YoUr.MiNd.BnXD](https://www.facebook.com/I.FueK.YoUr.MiNd.BnXD)
-
+[![Facebook]( "Fb")https://www.facebook.com/I.FueK.YoUr.MiNd.BnXD](https://www.facebook.com/I.FueK.YoUr.MiNd.BnXD)
 # Haii, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Assalamu Alaikum,
 
-I am Shymon Hasan, my home is Bangladesh, Dhaka, I am a student. [My Facebook Id](https://www.facebook.com/I.Fuak.Your.MinD) [My Youtube](https://youtube.com/c/FeelingsCreationSH)
+I am Shymon Hasan, my home is Bangladesh, Dhaka, I am a student.Follow us on Social Media. [My Facebook Id](https://www.facebook.com/I.Fuak.Your.MinD) [My Youtube](https://youtube.com/c/FeelingsCreationSH) [My Instagram](https://www.instagram.com/___rafin_chowdhury___) [My Twitter](https://twitter.com/shymon_hasan?s=09) [My Web](https://shymonhasan.websites.co.in/) [Skype](https://join.skype.com/invite/bYx8Q5DCOgHp) [Google Site](https://sites.google.com/view/shymonhasan) [My Fb Public Group] (https://www.facebook.com/groups/Islamik.Fundation/) [My Fb Page](https://www.facebook.com/Hasir.BooX/) [My Fb Page](https://www.facebook.com/If.Your.BaD.RaFi.YouR.DaD/) [My Fb Page](https://www.facebook.com/DeViL.QueeN.PaKhi/) [My Fb Page](https://www.facebook.com/Break.Up.DeViL/)
 
-## &#x270d; Blog & Writing
+## &#x270d; Gaming & writing
 
-[Hdlsvip](https://github.com/ShymonHasan)  [Facebook](https://www.facebook.com/I.Fuak.Your.MinD).
+[Github](https://github.com/ShymonHasan)  [Facebook](https://www.facebook.com/I.Fuak.Your.MinD).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -77,6 +76,6 @@ I am Shymon Hasan, my home is Bangladesh, Dhaka, I am a student. [My Facebook Id
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/ShymonHasan -->
 <!-- Emojis: https://youtube.com/c/FeelingsCreationSH -->
-<!-- HTML Emojis: https://www.Bangladesh.com -->
-<!-- Fb: https://www.facebook.com/I.FueK.YoUr.MiNd.BnXD -->
+<!-- HTML Emojis: https://www.fileformat.info/Bangladesh.htm -->
+<!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/ShymonHasan
