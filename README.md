@@ -4,7 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -27,7 +26,7 @@ Here are some ideas to get you started:
 
 Assalamu Alaikum,
 
-I am Shymon Hasan, my home is Bangladesh, Dhaka, I am a student.Follow us on Social Media. [My Facebook Id](https://www.facebook.com/I.Fuak.Your.MinD) [My Youtube](https://youtube.com/c/FeelingsCreationSH) [My Instagram](https://www.instagram.com/___rafin_chowdhury___) [My Twitter](https://twitter.com/shymon_hasan?s=09) [My Web](https://shymonhasan.websites.co.in/) [Skype](https://join.skype.com/invite/bYx8Q5DCOgHp) [Google Site](https://sites.google.com/view/shymonhasan) [My Fb Public Group](https://www.facebook.com/groups/Islamik.Fundation/) [My Fb Page](https://www.facebook.com/Hasir.BooX/) [My Fb Page](https://www.facebook.com/If.Your.BaD.RaFi.YouR.DaD/) [My Fb Page](https://www.facebook.com/DeViL.QueeN.PaKhi/) [My Fb Page](https://www.facebook.com/Break.Up.DeViL/)
+I am Shymon Hasan, my home is Bangladesh, Dhaka, I am a student.Follow us on Social Media. [<My Fb Id>](https://www.facebook.com/I.Fuak.Your.MinD) [<My Youtube>](https://youtube.com/c/FeelingsCreationSH) [<My Instagram>](https://www.instagram.com/___rafin_chowdhury___) [<My Twitter>](https://twitter.com/shymon_hasan?s=09) [<My Web>](https://shymonhasan.websites.co.in/) [<My Skype>](https://join.skype.com/invite/bYx8Q5DCOgHp) [<Google Site>](https://sites.google.com/view/shymonhasan) [<My Fb Public Group>](https://www.facebook.com/groups/Islamik.Fundation/) [<My Fb Page>](https://www.facebook.com/Hasir.BooX/) [<My Fb Page>](https://www.facebook.com/If.Your.BaD.RaFi.YouR.DaD/) [<My Fb Page>](https://www.facebook.com/DeViL.QueeN.PaKhi/) [<My Fb Page>](https://www.facebook.com/Break.Up.DeViL/)
 
 ## &#x270d; Gaming & writing
 
